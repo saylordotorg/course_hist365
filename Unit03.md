@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST365/STS203: History of Technology"
+course_description: "A survey of major technological developments from ancient to modern times with particular attention to social, political, and cultural contexts in Europe and the United States."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: The Not-So-Dark Ages** <span id="3"></span> 
 *Scholars of the Renaissance Movement were the first to describe their
 medieval predecessors as living in a “dark age” of cultural

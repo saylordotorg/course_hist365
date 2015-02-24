@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST365/STS203: History of Technology"
+course_description: "A survey of major technological developments from ancient to modern times with particular attention to social, political, and cultural contexts in Europe and the United States."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Technology and Imperialism** <span id="6"></span> 
 *The 19<sup>th</sup> century is often referred to as the Age of Progress
 because of the many benefits derived from industrial production.

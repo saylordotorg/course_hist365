@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST365/STS203: History of Technology"
+course_description: "A survey of major technological developments from ancient to modern times with particular attention to social, political, and cultural contexts in Europe and the United States."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: World War and Superpowers** <span id="8"></span> 
 *Since your introduction to the Scientific Revolution (Unit 5), you have
 witnessed a powerful synthesis of industrialization, nationalism, social

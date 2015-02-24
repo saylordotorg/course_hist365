@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST365/STS203: History of Technology"
+course_description: "A survey of major technological developments from ancient to modern times with particular attention to social, political, and cultural contexts in Europe and the United States."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Second Industrial Revolution** <span id="7"></span> 
 *The first Industrial Revolution in Britain centered on cotton, steam,
 and iron production (Unit 5). Nations that were turning to

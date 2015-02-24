@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST365/STS203: History of Technology"
+course_description: "A survey of major technological developments from ancient to modern times with particular attention to social, political, and cultural contexts in Europe and the United States."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: New Science and Industrialization** <span id="5"></span> 
 *Historians typically present the Scientific Revolution (sixteenth
 through seventeenth centuries) as a major theoretical achievement, and

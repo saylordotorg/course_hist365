@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST365/STS203: History of Technology"
+course_description: "A survey of major technological developments from ancient to modern times with particular attention to social, political, and cultural contexts in Europe and the United States."
+next: ../Unit10
+previous: ../Unit08
+---
 **Unit 9: Challenges and Reflections** <span id="9"></span> 
 *As industrialization continues to spread throughout the Middle East and
 Asia, our terminology may shift to refer to the North/South hemispheric

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "HIST365/STS203: History of Technology"
+course_description: "A survey of major technological developments from ancient to modern times with particular attention to social, political, and cultural contexts in Europe and the United States."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "HIST365/STS203: History of Technology"
 -----------------------------------------------------------
 
